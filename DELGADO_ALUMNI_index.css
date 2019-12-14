@@ -1,0 +1,205 @@
+*{
+	padding: 0;
+	margin:0;
+}
+
+.side-header{
+	width: 22%;
+	height: 99.1%; 
+	position: absolute;
+	top: 0;
+	background-color:#F6EEEE;
+}
+
+.background{
+	width: 300px;
+	height: 200px;
+	
+
+}
+.nav a{
+	margin-top:16px;
+	text-decoration: none;
+	float: right;	
+	color: black;
+	text-align: center;
+	margin-right: 10px;
+}
+
+.bg{
+	opacity: 0.9;
+	width: 300px;
+	height:200px;
+}
+
+.user{
+	width: 250px;
+	height: 150px;
+	position: absolute;
+	top: 5%;
+	left: 5%;
+}
+
+
+.avatar{
+	width: 50px;
+	height: 50px;
+	display: block;
+}
+
+.name,.student{
+	font: 17px Roboto, sans-serif;
+	line-height: 24px;
+	font-weight: 500;
+	color: #ffffff;
+	display: block;
+}
+
+.menu-bar{
+	width: 90%;
+	height: 50%;
+	margin: 5% 0 0 5%;
+}
+
+.menu-bar li{
+list-style-type: none;
+
+}
+
+.menu-bar ul li a{
+	text-decoration: none;
+	padding: 20px;
+	line-height: 70px;
+	font-family: sans-serif;
+	font-size: 20px;
+	color: black;
+	cursor: pointer;
+
+}
+
+
+.menu-bar ul li:hover{
+	background-color: pink;
+}
+
+.Announce{
+	width: 77%;
+	height: 250px;
+	margin: 0 0 0 22.5%;
+}
+
+.Announce img{
+	width: 100%;
+	height: 250px;
+	
+}
+
+
+.container{
+	width: 77%;
+	height: 530px;
+	margin: 0 0 0 22.5%;
+	display: flex;
+}
+
+.box1{
+	width: 70%;
+	height: 500px;
+	margin: 1% 0 0 0;
+	background-color: #F6EEEE;
+
+}
+
+hr{
+	margin-top: 2%;
+	width: 100%;
+}
+
+.discussion{
+	font-weight: 500;
+	font: 30px Roboto,sans-serif;
+}
+
+.prof-1,.prof-2,.prof-3{
+	width: 80px;
+	height: 80px;
+	margin: 1% 0 0 1%;
+	float: left;
+
+}
+
+.Professor{
+	color: blue;
+	cursor: pointer;
+}
+
+.text-1{
+	margin: 0 25% 0 0;
+	font-family: sans-serif;
+	font-weight: 500;
+	font-size:  20px;
+	font-family: Roboto;
+	color: blue;
+	cursor: pointer;
+}
+
+.hrs{
+	color: gray;
+	cursor: pointer;
+}
+
+
+.box2{
+	width: 30%;
+	height: 500px;
+	margin: 1% 0 0 0;
+}
+
+.active{
+	font-size: 20px;
+	
+}
+
+
+.activity{
+	width: 100%;
+	height: 250px;
+	background-color: #F6EEEE;
+}
+
+.activity li{
+	list-style-type: none;
+	padding-top:  20px;
+	line-height: 30px;
+	font-family: sans-serif;
+	font-size: 20px;
+	color: black;
+	cursor: pointer;
+	display: block;
+	margin-left: 5%;
+}
+
+.job{
+	width: 100%;
+	height: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
